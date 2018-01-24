@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "edwardian-suite.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -155,9 +155,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -250,354 +251,10 @@
         }
       ]
     },
-    "Availability & Prices.html": {
-      "settings": {
-        "order": 6,
-        "title": "Prices"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "text-align": "right",
-              "color": "#28324e",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
-            },
-            "H3": {
-              "color": "#28324e",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "24px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2u",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "7",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "Availability and Prices<br><br>",
-          "meta": "Bookings can be made by either contacting Summerhill Farm directly, or from this website, or through the numerous accommodation websites. &nbsp;Prices listed are standard, but please get in touch to ask about Winter/Spring specials. &nbsp; The gardens and paddocks are also available for wedding photography, with or without curious animals, at reasonable prices. Enquiries welcome.<br><br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#28324e",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "P": {
-              "color": "#28324e",
-              "font-size": "14px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            "H5": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "features3-34",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/cottage-through-blossum-600x397.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "The Blue Cottage",
-          "subtitle1": "",
-          "caption1": "$350 for two nights minimum<br>$175 per night thereafter<br>(Single night bookings are not available)",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x395.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "The Edwardian Suite",
-          "subtitle2": "",
-          "caption2": "$250 for one night<br>$350 for two nights; $175 per night thereafter<br><br>The Edwardian Suite &amp; Rose Room<br>$350 for one night<br>$300 per night for two or more nights<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "22px",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-family": "'Noto Sans', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-h",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#7e9b9f",
-            "fontSize": "1.1",
-            "fontName": {
-              "name": "Noto Sans",
-              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "css": "'Noto Sans', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"accommodation.html\" aria-expanded=\"false\">B&amp;B ACCOMMODATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"alpacas.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "18px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "footer1-i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#423f3f",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<p>Copyright © 2017 Summerhill Farm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone:  (61) 3 5989 6077<br></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-p",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "title": "Put RESONLINE calendar/booking gadget here&nbsp;",
-          "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px",
-              "color": "#28324e"
-            },
-            "SMALL": {
-              "color": "#28324e",
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1p",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "title": "<span style=\"line-height: 1.1;\">Booking Information</span><br>",
-          "meta": "<br>In general, check in from 2pm and check out before 11.00.<br>If you advise an approximate arrival time I can get either a heater or air conditioner going for your room if the weather is particularly hot or cold.<br>Additional charges apply if extra beds need are needed. &nbsp;Please contact us to discuss your requirements if this is the case.&nbsp;<br>Upon booking, a deposit (50% of the total value of your stay) is required to confirm your accommodation.<br>We understand that life happens and plans change. &nbsp;Please ring and advise - we may be able to find another date for your visit, if appropriate. &nbsp;<br>If you cancel more than 21 days prior to reservation date your deposit will be refunded less a $10.00    administration fee. &nbsp;<br>If notice is&nbsp;given 7 to 21 days prior to your booking, 50% of the deposit will be refunded. <br>If less than 7 days notice is given, no deposit will be refunded.<br><br>"
-        }
-      ]
-    },
     "About Us.html": {
       "settings": {
         "title": "About Us",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -783,9 +440,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -985,7 +642,7 @@
     "Little Alpaca.html": {
       "settings": {
         "title": "Little Alpaca",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -1073,9 +730,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -1300,7 +957,7 @@
     "blue-cottage.html": {
       "settings": {
         "title": "Blue Cottage",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1690,9 +1347,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2048,7 +1705,7 @@
     },
     "near-us.html": {
       "settings": {
-        "order": 10,
+        "order": 8,
         "title": "Near Us"
       },
       "components": [
@@ -2202,9 +1859,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2404,7 +2061,7 @@
     },
     "contact-us.html": {
       "settings": {
-        "order": 11,
+        "order": 9,
         "title": "Contact Us"
       },
       "components": [
@@ -2550,9 +2207,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2656,7 +2313,7 @@
     },
     "weddings.html": {
       "settings": {
-        "order": 7,
+        "order": 5,
         "title": "Wedding photos"
       },
       "components": [
@@ -2781,9 +2438,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2935,7 +2592,7 @@
       "settings": {
         "title": "Alpaca farm",
         "meta_descr": "",
-        "order": 12
+        "order": 4
       },
       "components": [
         {
@@ -3023,9 +2680,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -3468,9 +3125,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3522,7 +3180,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3953.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x395.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3581,8 +3239,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><strong>READ MORE</strong></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><strong>READ MORE</strong></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"blue-cottage.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><strong>READ MORE</strong></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"edwardian-suite.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><strong>READ MORE</strong></a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3703,7 +3361,7 @@
     "edwardian-suite.html": {
       "settings": {
         "title": "Edwardian Suite",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -4062,9 +3720,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -4127,7 +3785,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"accommodation.html\" data-toolbar=\"-mbrBtnMove\"><strong>BOOK NOW</strong></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"accommodation.html#header3-57\" data-toolbar=\"-mbrBtnMove\"><strong>BOOK NOW</strong></a> ",
           "_tags": [
             "Theme"
           ],
@@ -4231,7 +3889,7 @@
           "caption1": "Guests at Summerhill Farm B&amp;B will receive a voucher entitling them to a 10% discount on purchases from the 'Little Alpaca' shop.",
           "title2": "What's to see near us?",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We are close to beaches, wineries and restaurants, golf courses, fromageries, craft markets, high-ropes courses, national parks, tea rooms, galleries and beautiful display gardens.",
+          "caption2": "We are close to beaches, wineries and restaurants, golf courses, fromageries (cheese shops), craft markets, high-ropes courses, national parks, tea rooms, galleries and beautiful display gardens.",
           "title3": "Visit our alpaca farm",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Visit our Summalon Alpaca Stud",
@@ -4371,9 +4029,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'LITTLE ALPACA' SHOP</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">NEAR US</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SUMMALON ALPACAS</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Little Alpaca.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'LITTLE ALPACA' SHOP</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"near-us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">NEAR US</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"alpacas.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SUMMALON ALPACAS</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
