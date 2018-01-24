@@ -3495,7 +3495,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3951.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3952.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
