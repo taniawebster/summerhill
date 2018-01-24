@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "accommodation.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.8.7",
-    "uniqCompNum": 236,
+    "uniqCompNum": 237,
     "versionPublish": "4.3.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -59,7 +59,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "0",
-            "paddingBottom": "7",
+            "paddingBottom": "5",
             "bgColor": "#9ccbd2"
           },
           "title": "",
@@ -90,10 +90,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -141,7 +141,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -170,7 +170,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -217,7 +217,7 @@
           },
           "title": "Summerhill Farm",
           "text": "<br><b>A warm welcome. &nbsp;A peaceful stay.</b><br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Accommodation.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">B&amp;B accommodation</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Alpacas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Alpacas</a>    "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"accommodation.html\" data-toolbar=\"-mbrBtnMove\">B&amp;B accommodation</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"alpacas.html\" data-toolbar=\"-mbrBtnMove\">Alpacas</a>    "
         },
         {
           "_params": {
@@ -480,7 +480,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -511,7 +511,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -762,7 +762,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -793,7 +793,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_params": {
@@ -1048,7 +1048,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1079,7 +1079,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1663,7 +1663,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1694,7 +1694,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-3k"
         },
         {
@@ -2171,7 +2171,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -2202,7 +2202,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -2514,7 +2514,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -2545,7 +2545,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2741,7 +2741,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -2772,7 +2772,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2981,7 +2981,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -3012,7 +3012,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -3374,10 +3374,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3424,7 +3424,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -3453,7 +3453,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4y"
         },
         {
@@ -4252,7 +4252,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -4283,7 +4283,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accommodation.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Near Us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Find Us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accommodation.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">B&amp;B<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">The Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">The Edwardian Suite</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Accommodation.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-5i"
         },
         {

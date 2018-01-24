@@ -441,11 +441,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.083rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -1517,11 +1517,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-4y .link {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 #menu-4y .dropdown-item,
 #menu-4y .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.083rem;
 }
 #menu-4y .link:hover,
 #menu-4y .dropdown-item:hover,
