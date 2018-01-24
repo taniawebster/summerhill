@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.8.7",
-    "uniqCompNum": 252,
+    "uniqCompNum": 254,
     "versionPublish": "4.3.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -333,7 +333,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>Address:</b><br>Summerhill Farm<br>264 Barkers Road<br>MAIN RIDGE &nbsp;VIC &nbsp;3928<br>Australia<br><b>Contact u</b><br>",
+          "text1": "<b>Address:</b><br>Summerhill Farm<br>264 Barkers Road<br>MAIN RIDGE &nbsp;VIC &nbsp;3928<br>Australia<br><br><b>Contact us:</b><br>Phone: + 61 (3) 5989 6077\n<br>Email:&nbsp;<a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a><b><br></b><br>",
           "text2": "<div></div>",
           "_tags": [
             "Theme"
@@ -347,7 +347,7 @@
               "font-size": "20px"
             },
             "B": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "20px"
@@ -1656,9 +1656,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'LITTLE ALPACA' SHOP</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">NEAR US</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SUMMALON ALPACAS</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Little Alpaca.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'LITTLE ALPACA' SHOP</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"near-us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">NEAR US</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"alpacas.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SUMMALON ALPACAS</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3320,7 +3320,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "text": "<blockquote><b>Check in:\n</b></blockquote><blockquote>In general, check in from 2pm and check out before 11am.\n&nbsp;<span style=\"font-size: 1.09rem;\">If you advise an approximate arrival time, I can get either a heater or air conditioner going for your room, if the weather is particularly hot or cold.&nbsp;</span></blockquote><blockquote><p><b>\nAdditional beds:</b></p></blockquote><blockquote>Additional charges apply if extra beds are needed. Please advise if this is the case.\n</blockquote><blockquote><b>Deposit required:</b></blockquote><blockquote>Upon booking, a deposit (50% of the total value of your stay) is required to confirm your reservation.\n</blockquote><blockquote><b>\nCancellations and refunds:</b></blockquote><blockquote>We understand that life happens and plans change. Please ring and advise - we may be able to find another date for your visit, if appropriate.\n</blockquote><blockquote>\n<span style=\"font-size: 1.09rem;\">If you cancel more than 21 days prior to reservation date, your deposit will be refunded less a $10.00 administration fee.&nbsp;</span><span style=\"font-size: 1.09rem;\"></span></blockquote><blockquote>If notice is given 7 to 21 days prior to your booking, 50% of the deposit will be refunded.\n<span style=\"font-size: 1.09rem;\"></span></blockquote><blockquote>If less than 7 days notice is given, no deposit will be refunded.</blockquote>",
