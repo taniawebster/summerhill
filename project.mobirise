@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "accommodation.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.8.7",
-    "uniqCompNum": 242,
+    "uniqCompNum": 252,
     "versionPublish": "4.3.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -224,25 +224,29 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#423f3f"
           },
-          "text1": "<p>Copyright © 2017 Summerhill Farm</p>",
-          "text2": "<p><a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a></p>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p>",
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-5y",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
-          }
+          },
+          "_anchor": "content7-6z"
         }
       ]
     },
@@ -952,25 +956,29 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#423f3f"
           },
-          "text1": "<p>Copyright © 2017 Summerhill Farm</p>",
-          "text2": "<p><a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a></p>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p>",
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
-          "_anchor": "content7-6c"
+          "_anchor": "content7-6t"
         }
       ]
     },
@@ -1083,30 +1091,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"accommodation.html\" aria-expanded=\"false\">B&amp;B ACCOMMODATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"alpacas.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "18px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "footer1-1d",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#423f3f",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<p>Copyright © 2017 Summerhill Farm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone:  (61) 3 5989 6077<br></p>"
         },
         {
           "_styles": {
@@ -1284,6 +1268,32 @@
           },
           "title": "",
           "meta": "Phone Trudy<br>0403 836 710<br>Or see:<br>www.facebook.com/LittleAlpacaShop/<br>www.littlealpaca.com.au<br>www.instagram.com/littlealpacaflinders/<br>"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#423f3f"
+          },
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-6u"
         }
       ]
     },
@@ -2010,25 +2020,29 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#423f3f"
           },
-          "text1": "<p>Copyright © 2017 Summerhill Farm</p>",
-          "text2": "<p><a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a></p>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p>",
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
-          "_anchor": "content7-60"
+          "_anchor": "content7-6x"
         }
       ]
     },
@@ -2362,24 +2376,29 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#423f3f"
           },
-          "text1": "<p>Copyright © 2017 Summerhill Farm</p>",
-          "text2": "<p><a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a></p>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p>",
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_styles": {
             "P": {
-              "text-align": "center",
-              "color": "#ffffff"
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
-          "_anchor": "content7-6h"
+          "_anchor": "content7-6s"
         }
       ]
     },
@@ -2609,22 +2628,26 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#423f3f"
           },
-          "text1": "<p>Copyright © 2017 Summerhill Farm</p>",
-          "text2": "<p><a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a></p>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p>",
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_anchor": "content7-67"
@@ -2778,30 +2801,6 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"accommodation.html\" aria-expanded=\"false\">B&amp;B ACCOMMODATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"alpacas.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "18px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "footer1-3b",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#423f3f",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<p>Copyright © 2017 Summerhill Farm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone:  (61) 3 5989 6077<br></p>"
-        },
-        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -2903,6 +2902,32 @@
           "_anchor": "gallery2-3e",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#423f3f"
+          },
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-6v"
         }
       ]
     },
@@ -3016,30 +3041,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"accommodation.html\" aria-expanded=\"false\">B&amp;B ACCOMMODATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"alpacas.html\" aria-expanded=\"false\">ALPACA FARM<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'LITTLE ALPACA' SHOP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT US<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"near-us.html\" aria-expanded=\"false\">NEAR US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT <br>US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "18px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "footer1-4",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#423f3f",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<p>Copyright © 2017 Summerhill Farm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone:  (61) 3 5989 6077<br></p>"
         },
         {
           "_styles": {
@@ -3287,6 +3288,32 @@
           "_anchor": "gallery2-1b",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#423f3f"
+          },
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-6r"
         }
       ]
     },
@@ -3495,7 +3522,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3952.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-of-house3-600x3953.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3537,10 +3564,10 @@
             }
           },
           "title1": "The Blue Cottage",
-          "subtitle1": "Casual, unpretentious and comfy",
+          "subtitle1": "Casual, unpretentious and comfy<br>$350 for two nights (plus $175 for each additional night)",
           "caption1": "",
           "title2": "The Edwardian Suite",
-          "subtitle2": "Traditionally furnished with a verandah overlooking the garden",
+          "subtitle2": "Traditionally furnished with a verandah overlooking the garden<br>$250 per night (cheaper for 2 or more nights)",
           "caption2": "",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
@@ -3647,25 +3674,29 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#423f3f"
           },
-          "text1": "<p>Copyright © 2017 Summerhill Farm</p>",
-          "text2": "<p><a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a></p>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p>",
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
-          "_anchor": "content7-5z"
+          "_anchor": "content7-6y"
         }
       ]
     },
@@ -4361,25 +4392,29 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#423f3f"
           },
-          "text1": "<p>Copyright © 2017 Summerhill Farm</p>",
-          "text2": "<p><a href=\"mailto:summerhillfarm@westnet.com.au\">Email us</a></p>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p>",
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"mailto:summerhillfarm@westnet.com.au\">summerhillfarm@westnet.com.au</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
-          "_anchor": "content7-61"
+          "_anchor": "content7-6w"
         }
       ]
     }
