@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -429,7 +429,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-0 .navbar-toggler {
@@ -438,14 +438,14 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.191rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -507,6 +507,9 @@ h6,
   font-size: 80px;
   color: #ffffff;
 }
+#header1-1w .mbr-section-lead B {
+  color: #ffffff;
+}
 #content7-5y P {
   text-align: center;
   color: #ffffff;
@@ -552,7 +555,7 @@ h6,
 }
 #menu-h .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-h .navbar-toggler {
@@ -564,11 +567,11 @@ h6,
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-h .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-h .dropdown-item,
 #menu-h .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-h .link:hover,
 #menu-h .dropdown-item:hover,
@@ -686,7 +689,7 @@ h6,
 }
 #menu-1k .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-1k .navbar-toggler {
@@ -695,14 +698,14 @@ h6,
 #menu-1k .link,
 #menu-1k .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-1k .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-1k .dropdown-item,
 #menu-1k .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-1k .link:hover,
 #menu-1k .dropdown-item:hover,
@@ -794,7 +797,7 @@ h6,
 }
 #menu-1c .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-1c .navbar-toggler {
@@ -806,11 +809,11 @@ h6,
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-1c .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-1c .dropdown-item,
 #menu-1c .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-1c .link:hover,
 #menu-1c .dropdown-item:hover,
@@ -931,7 +934,7 @@ h6,
 }
 #menu-3k .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-3k .navbar-toggler {
@@ -940,14 +943,14 @@ h6,
 #menu-3k .link,
 #menu-3k .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-3k .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-3k .dropdown-item,
 #menu-3k .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-3k .link:hover,
 #menu-3k .dropdown-item:hover,
@@ -1018,11 +1021,11 @@ h6,
 #features6-63 H4 {
   font-size: 22px;
 }
-#features6-64 P {
+#features6-6l P {
   font-size: 20px;
 }
-#features6-64 .btn {
-  font-size: 20px;
+#features6-6l .btn {
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
 }
 #content7-60 P {
@@ -1070,7 +1073,7 @@ h6,
 }
 #menu-j .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-j .navbar-toggler {
@@ -1079,14 +1082,14 @@ h6,
 #menu-j .link,
 #menu-j .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-j .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-j .dropdown-item,
 #menu-j .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-j .link:hover,
 #menu-j .dropdown-item:hover,
@@ -1172,7 +1175,7 @@ h6,
 }
 #menu-9 .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-9 .navbar-toggler {
@@ -1181,14 +1184,14 @@ h6,
 #menu-9 .link,
 #menu-9 .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-9 .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -1272,7 +1275,7 @@ h6,
 }
 #menu-3a .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-3a .navbar-toggler {
@@ -1284,11 +1287,11 @@ h6,
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-3a .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-3a .dropdown-item,
 #menu-3a .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-3a .link:hover,
 #menu-3a .dropdown-item:hover,
@@ -1352,7 +1355,7 @@ h6,
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-3 .navbar-toggler {
@@ -1364,11 +1367,11 @@ h6,
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-3 .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
@@ -1474,8 +1477,6 @@ h6,
 
 
 
-
-
 #header3-54 .mbr-section-title,
 #header3-54 .mbr-section-subtitle {
   text-align: center;
@@ -1505,7 +1506,7 @@ h6,
 }
 #menu-4y .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-4y .navbar-toggler {
@@ -1514,14 +1515,14 @@ h6,
 #menu-4y .link,
 #menu-4y .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-4y .link {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 #menu-4y .dropdown-item,
 #menu-4y .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.191rem;
 }
 #menu-4y .link:hover,
 #menu-4y .dropdown-item:hover,
@@ -1590,23 +1591,6 @@ h6,
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
-#features6-5p P {
-  font-size: 20px;
-}
-#features6-5p .btn {
-  font-size: 20px;
-  font-family: 'Roboto', sans-serif;
-}
-#features6-5p H4 {
-  font-size: 22px;
-}
-#features6-62 P {
-  font-size: 20px;
-}
-#features6-62 .btn {
-  font-size: 18px;
-  font-family: 'Roboto', sans-serif;
-}
 #header3-57 .mbr-section-title,
 #header3-57 .mbr-section-subtitle {
   text-align: center;
@@ -1655,7 +1639,7 @@ h6,
 }
 #menu-5i .navbar-caption {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 22px;
   font-family: 'Noto Sans', sans-serif;
 }
 #menu-5i .navbar-toggler {
@@ -1664,14 +1648,14 @@ h6,
 #menu-5i .link,
 #menu-5i .dropdown-item {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #menu-5i .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #menu-5i .dropdown-item,
 #menu-5i .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #menu-5i .link:hover,
 #menu-5i .dropdown-item:hover,
@@ -1742,11 +1726,11 @@ h6,
 #features6-65 H4 {
   font-size: 22px;
 }
-#features6-66 P {
+#features6-6m P {
   font-size: 20px;
 }
-#features6-66 .btn {
-  font-size: 20px;
+#features6-6m .btn {
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
 }
 #content7-61 P {
