@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "edwardian-suite.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#5b5b5b",
         "#00343b",
         "#9ccbd2",
         "#423f3f",
         "#474747",
-        "#2e2e2e",
-        "#7c7c7c"
+        "#2e2e2e"
       ]
     },
     "versionFirst": "3.8.7",
@@ -171,7 +171,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -251,664 +251,6 @@
         }
       ]
     },
-    "About Us.html": {
-      "settings": {
-        "title": "About Us",
-        "order": 8
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "7",
-            "bgColor": "#7e9b9f"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5u"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p></p><div><br></div><p></p><h1>About Us\n</h1><p></p><p>Summerhill Farm is situated on 10 peaceful acres at Main Ridge, 75 minutes from Melbourne CBD, in the heart of the picturesque Mornington Peninsula.</p><p></p><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            "SPAN": {
-              "text-align": "right",
-              "font-size": "15px"
-            },
-            "BLOCKQUOTE": {
-              "text-align": "center"
-            },
-            "H1": {
-              "font-size": "46px",
-              "text-align": "center",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            "DIV": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "content1-5t"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#475577",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "264 Barkers Road\nMain Ridge  Vic  3928\nAustralia",
-              "placeId": "ChIJpVtnVMPH1WoRyt29udMSaLY",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<b>Address:</b><br>Summerhill Farm<br>264 Barkers Road<br>MAIN RIDGE &nbsp;VIC &nbsp;3928<br>Australia<br><a href=\"contact-us.html\">Contact us</a><b><br></b><br>",
-          "text2": "<div></div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "20px"
-            },
-            "B": {
-              "color": "#000000",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "contacts2-68"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "22px",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-1k",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#7e9b9f",
-            "fontSize": "1.1",
-            "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
-              "height": 128,
-              "alt": "logo",
-              "link": "index.html",
-              "title": "Summerhill Farm B&B",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Owned by Beverley Baker, Summerhill Farm is a working alpaca stud. We breed and show alpacas, shear them and sell the fleeces and yarns.</p><p><br></p><p>\n</p><p>\n</p><p>While we do not provide farming activities, guests are welcome to wander about and see our variety of animals - alpacas, horses, chickens, geese, peacocks and \"Boss Cocky &amp; The Missus\" - our very own visiting cockatoos. We also provide a refuge for rescue animals. Feel free to say hello to the Shetland pony Gingernuts, our latest addition.</p><p><br></p><p>\n</p><p>\n</p><p>Summerhill Farm is a beautiful place to visit at any time of the year. Each season has its own appeal.\n</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-6a",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 1,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#efefef",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/view1-550x366-6x4-550x366-550x366.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/view1-550x366-6x4-550x366-550x366-550x366.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/cockatoo-244x366-4x6-244x366-244x366.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cockatoo-244x366-4x6-244x366-244x366-244x366.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/alpacas-and-pony-550x366-6x4-550x366.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alpacas-and-pony-550x366-6x4-550x366-550x366.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/parrot-244x366-4x6-244x366.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/parrot-244x366-4x6-244x366-244x366.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mist-above-cottage-550x366-6x4-550x366.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mist-above-cottage-550x366-6x4-550x366-550x366.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/view-from-suite-550x366-6x4-550x366.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/view-from-suite-550x366-6x4-550x366-550x366.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-6b"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#423f3f"
-          },
-          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
-          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"contact-us.html\">Contact us online</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff",
-              "font-size": "18px"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content7-7h"
-        }
-      ]
-    },
-    "Little Alpaca.html": {
-      "settings": {
-        "title": "Little Alpaca",
-        "order": 7
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "22px",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-1c",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#7e9b9f",
-            "fontSize": "1.1",
-            "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
-              "height": 128,
-              "alt": "logo",
-              "link": "index.html",
-              "title": "Summerhill Farm B&B",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "text-align": "right",
-              "color": "#28324e",
-              "font-size": "14px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            "H3": {
-              "color": "#28324e",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "24px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1e",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "6",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "Little Alpaca<br>",
-          "meta": "<br>'Little Alpaca' started as an on-farm outlet at Summerhill Farm and has since grown to two boutiques in two beautiful locations - Flinders on the Mornington Peninsula and Olinda in the Dandenong Ranges. &nbsp;Both locations specialise in luxury clothing, accessories and homewares of natural fibres, and of course, feature Summalon Alpaca fleeces and yarns.<br><br><span style=\"font-style: normal;\">Guests at Summerhill Farm B&amp;B receive a voucher entitling them to a 10% discount on purchases from Little Alpaca.</span><br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#28324e"
-            },
-            "H5": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "features3-2c",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/flinders-shop-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Little Alpaca Flinders<br><br>",
-          "subtitle1": "3/37 Cook Street, Flinders",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/front-window-olinda-600x600-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Little Alpaca Olinda<br><br>",
-          "subtitle2": "Shop 1, 47-53 Olinda-Monbulk Road, Olinda",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px"
-            },
-            "SMALL": {
-              "color": "#28324e",
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "title": "",
-          "meta": "Phone Trudy<br>0403 836 710<br>Or see:<br>www.facebook.com/LittleAlpacaShop/<br>www.littlealpaca.com.au<br>www.instagram.com/littlealpacaflinders/<br>"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#423f3f"
-          },
-          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
-          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"contact-us.html\">Contact us online</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff",
-              "font-size": "18px"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content7-7g"
-        }
-      ]
-    },
     "blue-cottage.html": {
       "settings": {
         "title": "Blue Cottage",
@@ -983,7 +325,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3428-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3428-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -997,7 +339,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-154-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-154-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1011,7 +353,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3427-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3427-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1025,7 +367,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3438-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3438-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1039,7 +381,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3442-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3442-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1053,7 +395,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3444-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3444-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1067,7 +409,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3408-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3408-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1081,7 +423,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3409-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3409-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1095,7 +437,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3424-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3424-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1109,7 +451,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-1713-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1713-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1123,81 +465,36 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3369-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3369-1140x760.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/view-from-eastern-side3-1140x760.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-517-1140x760.jpg",
                 "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/outdoor-setting-cottage-2000x1500.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/view-from-eastern-side3-2000x1343.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-517-2000x1500.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-3321-2000x1500.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-3235-2000x1500.jpg",
-                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1319,7 +616,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-3k"
         },
         {
@@ -1583,7 +880,8 @@
             },
             ".mbr-section-subtitle": {
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#28324e"
             },
             ".mbr-section-title": {
               "font-family": "'Merriweather', serif",
@@ -2073,7 +1371,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_params": {
@@ -2268,7 +1566,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2499,7 +1797,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -2629,392 +1927,6 @@
             }
           },
           "_anchor": "content7-7f"
-        }
-      ]
-    },
-    "alpacas.html": {
-      "settings": {
-        "title": "Alpaca farm",
-        "meta_descr": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "22px",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-3",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#7e9b9f",
-            "fontSize": "1.1",
-            "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
-              "height": 128,
-              "alt": "logo",
-              "link": "index.html",
-              "title": "Summerhill Farm B&B",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "text-align": "right",
-              "color": "#28324e",
-              "font-size": "14px"
-            },
-            "H3": {
-              "font-size": "36px",
-              "color": "#28324e"
-            },
-            "SPAN": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-17",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "6",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "Summalon Alpaca Stud<br>",
-          "meta": "<br><span style=\"font-style: normal;\">Summalon Alpaca Stud is situated on the picturesque property of Summerhill Farm at Main Ridge on the Mornington Peninsula, south east of Melbourne. The stud was established in 2003 with the purchase of two pregnant hembras with female cria at foot, beginning the journey of breeding fine white huacaya alpaca.<br><br>A major leap forward was made in 2007 with an introduction to Dr Jim Watts and the SRS system of breed selection. <br>Our focus now is to breed a small number of high quality animals.<br><br>Access to quality stud males dramatically improved the following season's cria, demonstrating the effectiveness of following a proven breed system.<br>The purchase of the four-month-old male Halcyon Storm Seeker (ET) at auction in 2008 from the Halcyon Stud was an exciting moment for Summalon Alpacas. &nbsp;Stormy was subsequently classified by Dr Watts as a 'wool' sire within the SRS system. &nbsp;Stormy and his fleece were succcessfully shown over a number of years until his sale in 2014. &nbsp;His impact on herd quality was seen in the improved fineness, density and crimp definition of the fleeces. &nbsp;Stormy's progeny also became prize winners.<br><br>We currently have no sire standing at stud but are using outside SRS sires to bring in specific attributes and proven diversity to the herd.<br><br>As a stud on small acreage, we usually have animals for sale - practicalities mean we can't keep them all! &nbsp; So if you are looking for an alpaca as a pet, or a herd or flock guardian, or a wool producer, or quality breeding females - please contact us. &nbsp;We'd love to help.</span><br>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "20px"
-            },
-            "SMALL": {
-              "color": "#28324e",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1a",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "title": "",
-          "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "text-align": "right",
-              "color": "#28324e",
-              "font-size": "14px"
-            },
-            "H3": {
-              "font-size": "36px"
-            },
-            "SPAN": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2f",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "Just Announced - Major Stud Reduction - Alpacas for Sale<br><br>",
-          "meta": "<span style=\"font-style: normal;\">After two knee reconstructions, it really is time to reduce stud numbers.&nbsp;</span><br><span style=\"font-style: normal;\">Quality breeding females &nbsp;- max price $900</span><br><span style=\"font-style: normal;\">Wethers for herd guards or pets - $400. &nbsp;</span><br><span style=\"font-style: normal;\">All quality animals by well-known sires. &nbsp;</span><br><span style=\"font-style: normal;\">Mostly white. &nbsp;Some light fawn. &nbsp; &nbsp;<br></span><span style=\"font-style: normal;\">&nbsp;&nbsp;<br>Please call for further details - (03) 5989 6077 or email summerhillfarm@westnet.com.au. &nbsp;</span><br><br><br>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "0",
-            "paddingTop": "0",
-            "paddingBottom": 4,
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-1-800x598.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-1.jpg",
-                "caption": "Stormy",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cria-at-farm2-2000x3555-800x1422.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cria-at-farm2-2000x3555.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1768-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1768-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/11008636-870061099702388-4567827090413509164-n-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/11008636-870061099702388-4567827090413509164-n-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/11079614-870061136369051-3783451284975568039-n-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/11079614-870061136369051-3783451284975568039-n-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906-800x1162.png",
-                "image": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stormy-2000x2423-1-800x969.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stormy-2000x2423-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zoe-cria-2000x1326-1-800x530.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zoe-cria-2000x1326-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alpacas-in-paddock-2000x1589-2-800x635.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alpacas-in-paddock-2000x1589-2.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1546130-853531334688698-1309393046352140590-n-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1546130-853531334688698-1309393046352140590-n-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/new-cria-at-farm-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/new-cria-at-farm-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423-800x969.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "_anchor": "gallery2-1b",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#423f3f"
-          },
-          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
-          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
-          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"contact-us.html\">Contact us online</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff",
-              "font-size": "18px"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content7-7e"
         }
       ]
     },
@@ -3185,7 +2097,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4y"
         },
         {
@@ -3463,7 +2375,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/flowers-in-front-of-edwardian-suite3-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1725-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3477,7 +2389,35 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3455-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/front-of-house3-1140x760.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-3455-1140x760.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-3457-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3491,7 +2431,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/front-of-house3-2000x1317.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3302-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3505,7 +2445,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3302-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3297-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3519,7 +2459,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3297-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3255-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3533,7 +2473,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3255-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3260-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3547,7 +2487,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3260-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3254-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3561,7 +2501,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3254-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3281-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3575,7 +2515,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3263-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3263-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3589,7 +2529,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3455-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3236-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3603,7 +2543,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3334-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3334-1140x760.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3617,36 +2557,22 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3311-2000x1500.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-3281-2000x1500.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-3236-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3311-1140x760.jpg",
                 "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-617-1140x760.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3768,7 +2694,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-5i"
         },
         {
@@ -4019,7 +2945,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p></p><div><br></div><p></p><h1>Bookings</h1><p></p><p></p>",
+          "text": "<p></p><div><br></div><p></p><h1>B&amp;B booking</h1><p></p><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -4206,7 +3132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"true\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"true\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-7n"
         },
         {
@@ -4234,6 +3160,1050 @@
             }
           },
           "_anchor": "content7-7s"
+        }
+      ]
+    },
+    "about-us.html": {
+      "settings": {
+        "title": "About Us",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#7e9b9f"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5u"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p></p><div><br></div><p></p><h1>About Us\n</h1><p></p><p>Summerhill Farm is situated on 10 peaceful acres at Main Ridge, 75 minutes from Melbourne CBD, in the heart of the picturesque Mornington Peninsula.</p><p></p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "20px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            "SPAN": {
+              "text-align": "right",
+              "font-size": "15px"
+            },
+            "BLOCKQUOTE": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "46px",
+              "text-align": "center",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            "DIV": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "content1-5t"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#475577",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "264 Barkers Road\nMain Ridge  Vic  3928\nAustralia",
+              "placeId": "ChIJpVtnVMPH1WoRyt29udMSaLY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>Address:</b><br>Summerhill Farm<br>264 Barkers Road<br>MAIN RIDGE &nbsp;VIC &nbsp;3928<br>Australia<br><a href=\"contact-us.html\">Contact us</a><b><br></b><br>",
+          "text2": "<div></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "20px"
+            },
+            "B": {
+              "color": "#000000",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-68"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#648286"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#759498!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7e9b9f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1k",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#7e9b9f",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Owned by Beverley Baker, Summerhill Farm is a working alpaca stud. We breed and show alpacas, shear them and sell the fleeces and yarns.</p><p><br></p><p>\n</p><p>\n</p><p>While we do not provide farming activities, guests are welcome to wander about and see our variety of animals - alpacas, horses, chickens, geese, peacocks and \"Boss Cocky &amp; The Missus\" - our very own visiting cockatoos. We also provide a refuge for rescue animals. Feel free to say hello to the Shetland pony Gingernuts, our latest addition.</p><p><br></p><p>\n</p><p>\n</p><p>Summerhill Farm is a beautiful place to visit at any time of the year. Each season has its own appeal.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6a",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#efefef",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/view1-550x366-6x4-550x366-550x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/view1-550x366-6x4-550x366-550x366-550x366.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cockatoo-244x366-4x6-244x366-244x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cockatoo-244x366-4x6-244x366-244x366-244x366.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/alpacas-and-pony-550x366-6x4-550x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alpacas-and-pony-550x366-6x4-550x366-550x366.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/parrot-244x366-4x6-244x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/parrot-244x366-4x6-244x366-244x366.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mist-above-cottage-550x366-6x4-550x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mist-above-cottage-550x366-6x4-550x366-550x366.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/view-from-suite-550x366-6x4-550x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/view-from-suite-550x366-6x4-550x366-550x366.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-6b"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#423f3f"
+          },
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"contact-us.html\">Contact us online</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-7h"
+        }
+      ]
+    },
+    "alpaca-farm.html": {
+      "settings": {
+        "title": "Alpaca farm",
+        "meta_descr": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#648286"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#759498!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7e9b9f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#7e9b9f",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "text-align": "right",
+              "color": "#28324e",
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#28324e"
+            },
+            "SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Summalon Alpaca Stud<br>",
+          "meta": "<br><span style=\"font-style: normal;\">Summalon Alpaca Stud is situated on the picturesque property of Summerhill Farm at Main Ridge on the Mornington Peninsula, south east of Melbourne. The stud was established in 2003 with the purchase of two pregnant hembras with female cria at foot, beginning the journey of breeding fine white huacaya alpaca.<br><br>A major leap forward was made in 2007 with an introduction to Dr Jim Watts and the SRS system of breed selection. <br>Our focus now is to breed a small number of high quality animals.<br><br>Access to quality stud males dramatically improved the following season's cria, demonstrating the effectiveness of following a proven breed system.<br>The purchase of the four-month-old male Halcyon Storm Seeker (ET) at auction in 2008 from the Halcyon Stud was an exciting moment for Summalon Alpacas. &nbsp;Stormy was subsequently classified by Dr Watts as a 'wool' sire within the SRS system. &nbsp;Stormy and his fleece were succcessfully shown over a number of years until his sale in 2014. &nbsp;His impact on herd quality was seen in the improved fineness, density and crimp definition of the fleeces. &nbsp;Stormy's progeny also became prize winners.<br><br>We currently have no sire standing at stud but are using outside SRS sires to bring in specific attributes and proven diversity to the herd.<br><br>As a stud on small acreage, we usually have animals for sale - practicalities mean we can't keep them all! &nbsp; So if you are looking for an alpaca as a pet, or a herd or flock guardian, or a wool producer, or quality breeding females - please contact us. &nbsp;We'd love to help.</span><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "SMALL": {
+              "color": "#28324e",
+              "font-size": "36px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "text-align": "right",
+              "color": "#28324e",
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Just Announced - Major Stud Reduction - Alpacas for Sale<br><br>",
+          "meta": "<span style=\"font-style: normal;\">After two knee reconstructions, it really is time to reduce stud numbers.&nbsp;</span><br><span style=\"font-style: normal;\">Quality breeding females &nbsp;- max price $900</span><br><span style=\"font-style: normal;\">Wethers for herd guards or pets - $400. &nbsp;</span><br><span style=\"font-style: normal;\">All quality animals by well-known sires. &nbsp;</span><br><span style=\"font-style: normal;\">Mostly white. &nbsp;Some light fawn. &nbsp; &nbsp;<br></span><span style=\"font-style: normal;\">&nbsp;&nbsp;<br>Please call for further details - (03) 5989 6077 or email summerhillfarm@westnet.com.au. &nbsp;</span><br><br><br>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "0",
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-1-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fleece-at-show-2000x1497-1.jpg",
+                "caption": "Stormy",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cria-at-farm2-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cria-at-farm2-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1768-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1768-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11008636-870061099702388-4567827090413509164-n-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11008636-870061099702388-4567827090413509164-n-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11079614-870061136369051-3783451284975568039-n-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11079614-870061136369051-3783451284975568039-n-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-alpacas-2000x1333-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906-800x1162.png",
+                "image": "@PROJECT_PATH@/assets/images/summalon-alpacas-image-2000x2906.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stormy-2000x2423-1-800x969.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stormy-2000x2423-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zoe-cria-2000x1326-1-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zoe-cria-2000x1326-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alpacas-in-paddock-2000x1589-2-800x635.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alpacas-in-paddock-2000x1589-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1546130-853531334688698-1309393046352140590-n-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1546130-853531334688698-1309393046352140590-n-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new-cria-at-farm-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-cria-at-farm-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423-800x969.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stormy-head-2000x2423.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery2-1b",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#423f3f"
+          },
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"contact-us.html\">Contact us online</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-7e"
+        }
+      ]
+    },
+    "little-alpaca-shop.html": {
+      "settings": {
+        "title": "Little Alpaca",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#648286"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#759498!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7e9b9f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1c",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#7e9b9f",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-300dpi-1-128x128.jpg",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "Summerhill Farm B&B",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SUMMERHILL <br>FARM</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"accommodation.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ACCOMMODATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blue-cottage.html\" aria-expanded=\"false\">Blue Cottage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edwardian-suite.html\" aria-expanded=\"false\">Edwardian Suite</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bookings.html\" aria-expanded=\"false\">Bookings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"alpacas.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ALPACAS<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpacas.html\" aria-expanded=\"false\">Alpaca farm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Little Alpaca.html\" aria-expanded=\"false\">'Little Alpaca' shop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"weddings.html\" aria-expanded=\"false\">WEDDING PHOTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us.html\" aria-expanded=\"false\">Near us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "text-align": "right",
+              "color": "#28324e",
+              "font-size": "14px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            "H3": {
+              "color": "#28324e",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Little Alpaca<br>",
+          "meta": "<br>'Little Alpaca' started as an on-farm outlet at Summerhill Farm and has since grown to two boutiques in two beautiful locations - Flinders on the Mornington Peninsula and Olinda in the Dandenong Ranges. &nbsp;Both locations specialise in luxury clothing, accessories and homewares of natural fibres, and of course, feature Summalon Alpaca fleeces and yarns.<br><br><span style=\"font-style: normal;\">Guests at Summerhill Farm B&amp;B receive a voucher entitling them to a 10% discount on purchases from Little Alpaca.</span><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#28324e"
+            },
+            "H5": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "features3-2c",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/flinders-shop-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Little Alpaca Flinders<br><br>",
+          "subtitle1": "3/37 Cook Street, Flinders",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/front-window-olinda-600x600-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Little Alpaca Olinda<br><br>",
+          "subtitle2": "Shop 1, 47-53 Olinda-Monbulk Road, Olinda",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "SMALL": {
+              "color": "#28324e",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "",
+          "meta": "Phone Trudy<br>0403 836 710<br>Or see:<br>www.facebook.com/LittleAlpacaShop/<br>www.littlealpaca.com.au<br>www.instagram.com/littlealpacaflinders/<br>"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#423f3f"
+          },
+          "text1": "<p>Copyright © 2017 <br>Summerhill Farm</p>",
+          "text2": "264 Barkers Road\n<div>MAIN RIDGE  VIC  3928</div>",
+          "text3": "<p>Phone: + 61 (3) 5989 6077</p><p><a href=\"contact-us.html\">Contact us online</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-7g"
         }
       ]
     }
